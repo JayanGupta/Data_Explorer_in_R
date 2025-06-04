@@ -14,3 +14,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add categorical and continuous distribution profiling
 - **Technical Summary**: Documented plot_histogram, plot_density, and plot_bar usage.
 
+### Milestone Log - 2025-06-04 (14:52)
+- **Focus**: docs: update DataExplorer automated reporting workflow
+- **Technical Summary**: Documented create_report() generation with custom plot configurations.
+
