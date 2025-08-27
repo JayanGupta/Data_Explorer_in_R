@@ -34,3 +34,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize missing value profiling with plot_missing
 - **Technical Summary**: Configured threshold bandings (good, ok, bad, remove) for missingness.
 
+### Milestone Log - 2025-08-27 (10:22)
+- **Focus**: docs: add categorical and continuous distribution profiling
+- **Technical Summary**: Documented plot_histogram, plot_density, and plot_bar usage.
+
