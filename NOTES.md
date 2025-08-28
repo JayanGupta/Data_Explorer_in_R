@@ -42,3 +42,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update DataExplorer automated reporting workflow
 - **Technical Summary**: Documented create_report() generation with custom plot configurations.
 
+### Milestone Log - 2025-08-28 (16:15)
+- **Focus**: refactor: optimize missing value profiling with plot_missing
+- **Technical Summary**: Configured threshold bandings (good, ok, bad, remove) for missingness.
+
