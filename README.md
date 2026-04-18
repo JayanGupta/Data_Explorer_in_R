@@ -1,38 +1,42 @@
-# 📊 Data Explorer in R using DataExplorer
+<div align="center">
+  
+  # 📊 Data Explorer in R using DataExplorer
 
-This repository demonstrates how to perform **Exploratory Data Analysis (EDA)** in R using the `DataExplorer` package. It includes a hands-on notebook, an example HTML report, and a structured workflow using the `penguins` dataset.
+  [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+  [![DataExplorer](https://img.shields.io/badge/DataExplorer-00BFC4?style=for-the-badge)](https://cran.r-project.org/package=DataExplorer)
+  [![EDA](https://img.shields.io/badge/EDA-Analysis-blue?style=for-the-badge)]()
+  [![Visualization](https://img.shields.io/badge/Data--Visualization-orange?style=for-the-badge)]()
 
----
-
-## 📁 Repository Structure
-```text
-.
-├── Data_explorer_in_r.ipynb # R Notebook with step-by-step EDA
-├── report_example.html # Auto-generated EDA report
-├── README.md # Project documentation
-```
+  *An exploratory data analysis (EDA) project in R using automated visualization and reporting tools.*
+</div>
 
 ---
 
-## 🔍 Overview
+## 📖 Overview
+This project demonstrates how to perform **Exploratory Data Analysis (EDA)** in R using the `DataExplorer` package.  
 
-Exploratory Data Analysis (EDA) is a foundational step in any data science workflow. This project focuses on:
-
-- Understanding dataset structure  
-- Identifying missing values  
-- Visualizing distributions  
-- Detecting outliers  
-- Generating automated reports  
+It focuses on understanding dataset structure, identifying missing values, and generating meaningful visualizations and reports using minimal code.
 
 ---
 
-## 🐧 Dataset
+## 🚀 Features
+- 📋 Data structure and summary analysis  
+- ❗ Missing value detection and visualization  
+- 📈 Distribution analysis using histograms  
+- 📦 Boxplots for grouped comparisons  
+- 🔗 Correlation analysis for numerical features  
+- 📄 Automated HTML report generation  
 
-The dataset used is the **`penguins` dataset** from the `palmerpenguins` package.
+---
 
-It includes:
-- Species classification  
-- Island information  
+## 📊 Dataset
+- **Dataset Used:** `penguins`  
+- **Source:** `palmerpenguins` package  
+
+### 🧾 Dataset Description
+The dataset includes:
+- Penguin species classification  
+- Island location  
 - Physical measurements (bill length, flipper length, body mass)  
 - Gender information  
 
